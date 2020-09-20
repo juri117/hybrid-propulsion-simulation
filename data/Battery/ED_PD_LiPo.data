@@ -1,0 +1,9 @@
+# Table format: 1D
+# table_unit = Wh/kg
+# axis1_unit = W/kg
+100. 260.
+250. 250.
+500. 220.
+750. 170.
+1000. 70.
+1100. 10.
